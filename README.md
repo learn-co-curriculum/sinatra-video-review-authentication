@@ -10,4 +10,4 @@ login-and-password handling creation process, moving from the most basic login p
 increasing levels of security and complexity that we've seen in some of the previous labs. Briefly touches upon database interactions and the difference
 between renders and redirects. 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-video-review-authentication'>Video Review: Authentication</a> on Learn.co and start learning to code for free.</p>
+
